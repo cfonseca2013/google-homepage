@@ -1,1 +1,1 @@
-This is Chris Fonseca's project in which he  recreated the Google Homepage.
+In this project Chris recreated the Google Homepage
