@@ -54,7 +54,7 @@ a {
     color: #fff;
     line-height: 30px;
     height: 30px;
-    width: 70px;
+    width: 60px;
     text-align: center;
     font-weight: bold;
     margin: 0 20px;
@@ -133,10 +133,9 @@ a {
 
 /*Footer Section*/
 #footer {
-    position: absolute;
     bottom: 0;
     display: grid;
-    grid-template-columns: 100px 100px 150px 800px 70px 70px 70px;
+    grid-template-columns: 100px 100px 150px 4fr 70px 70px 70px;
     grid-template-rows: 50px;
     grid-template-areas:
     "advertising business howworks . privacy terms settings";
